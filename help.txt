@@ -1,0 +1,49 @@
+# help file
+
+- Issues using sudo apt-get update? Try one of the following:
+
+	sudo apt-get update --allow-unauthenticated
+	sudo apt-get update --allow-insecure-repositories
+
+- Want to launch an application without having to use the terminal every time? Try the following:
+
+	[Ctrl + D]
+
+	This should open dmenu, which allows you to open an application by typing in its name and hitting [Enter].
+	Check the top of the screen to see the search bar.
+
+- Want to browse the Internet? Use one of the following:
+
+	surf: Barebones gui browser. No tabs, no cookies, doesn't remember anything.
+	chromium: Basically just a stripped down version of Google Chrome. Use this if you want to have a typical web-browsing experience.
+
+- Want to connect to the Internet but don't know how? Type the following into the terminal:
+
+	nmtui
+
+	This should bring up a prompt from which you can select a WiFi network.
+
+- Want to shutdown the PC? Use the following command:
+
+	man shutdown
+
+	This will display the manual for the "shutdown" command. After reading about what each flag* does, you can decide which one to use.
+
+- Want to see all of the keybindings (keyboard shortcuts) used to move around the window manager? Use the following command in the shell:
+
+	i3help
+
+	This should display some code, along with what it means. Reading this should give you an idea of what each keybinding does, and how to use the window manager**.
+
+- Want to edit a configuration to add an alias or something else (not recommended unless you know what is meant by alias, and are familiar with how the configuration files work)? Use one of the following commands:
+
+	i3config: Opens the nano editor in ~/.config/i3/config/
+	lxconf: Opens the nano editor in ~/.config/lxterminal/lxterminal.conf/
+	zshconfig: Opens the nano editor in ~/.zshrc/
+
+- If you have any other questions, contact your system administrator.
+
+Notes:
+*: A *flag* is an argument for a command. It begins with a hyphen (-). For example, while ls lists all the files in a directory, it doesn't show hidden files. In order to show all files (or "list all" of them), you have to specify the -a flag. Typing "ls -a" into the terminal displays all of the files in the directory, including the hidden ones.
+**: A *window manager* is basically the piece of software that lets you see graphics on your system. It's a little more complicated than that, but all that you need to know is that i3wm is the window manager that you are likely currently using.
+
