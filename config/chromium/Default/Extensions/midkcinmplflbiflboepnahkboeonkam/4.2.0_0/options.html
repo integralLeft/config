@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reload All Tabs Options</title>
+  <link rel="stylesheet" type="text/css" href="/css/options.css" />
+  <script type="text/javascript" src="/js/functions.js"></script>
+  <script type="text/javascript" src="/js/options.js"></script>
+</head>
+<body>
+  <div id="body-container">
+    <div id="header">
+      <h1>Reload All Tabs <em id="version"></em></h1>
+    </div>
+    <p>
+      Make sure you save the settings after your done editing!
+      <a
+       href="https://chrome.google.com/webstore/detail/midkcinmplflbiflboepnahkboeonkam">
+       Visit extension page
+      </a>,
+      <a
+       href="https://github.com/mohamedmansour/reload-all-tabs-extension/issues">
+       File bugs and suggestions
+      </a><br/><br/>
+      You should follow me on Twitter <a href="http://twitter.com/mohamedmansour">@mohamedmansour</a>
+    </p>
+    <div class="extension-template">
+      <div class="extension-header">Browser Action</div>
+      <div class="extension-options">
+        <img src="/img/browser-action.png" alt="Reload All Tabs Browser Action" />
+        <p>To remove the button, right click on the icon and choose
+           <strong>Hide button</strong>.</p>
+        <p>To show that the button again, visit the
+           <a href="#" id="button-extension">chrome://extensions/</a> page, and
+           click on <strong>Show button</strong>.</p>
+      </div>
+    </div>
+    <div class="extension-template">
+      <div class="extension-header">Context Menu (Right Click)</div>
+      <div class="extension-options">
+        <p>When you have multiple checkboxes checked, it will place all context menus under one parent "Reload All Tabs" menu.</p>
+        <p>When you have just a single context menu selected, there will be no parent.</p>
+        <dl>
+          <dt>Reload all tabs in current window:</dt>
+          <dd><input id="reloadWindow" type="checkbox" /></dd>
+          <dt>Reload all tabs in all windows:</dt>
+          <dd><input id="reloadAllWindows" type="checkbox" /></dd>
+          <dt>Reload only pinned tabs in current window:</dt>
+          <dd><input id="reloadPinnedOnly" type="checkbox" /></dd>
+          <dt>Reload only unpinned tabs in current window:</dt>
+          <dd><input id="reloadUnpinnedOnly" type="checkbox" /></dd>
+          <dt>Reload all tabs to the left:</dt>
+          <dd><input id="reloadAllLeft" type="checkbox" /></dd>
+          <dt>Reload all tabs to the right:</dt>
+          <dd><input id="reloadAllRight" type="checkbox" /></dd>
+        </dl>
+      </div>
+    </div>
+    <div class="extension-template">
+      <div class="extension-header">Keyboard Shortcut Options</div>
+      <div class="extension-options">
+        <p>To setup the keyboard shortcut or change it, please visit the shortcuts page in Chrome: 
+          <span id="keyboardShortcutUpdate">chrome://extensions/shortcuts</span></p>
+        <img src="/img/keyboard-shortcut.png" alt="Reload All Tabs Keyboard Shortcut" />
+        <dl>
+          <dt>Current keyboard shortcut:</dt>
+          <dd id="keyboardShortcut"></dd>
+        </dl>
+      </div>
+    </div>
+    <div id="extension-footer">
+      <span id="info-message">Options saved!</span>
+      <button id="button-save">Save</button>
+      <button id="button-close">Close</button>
+    </div>
+    <div id="credits">
+      Extension developed by <a href="http://mohamedmansour.com">Mohamed Mansour</a>,
+      Source Code available in <a href="http://github.com/mohamedmansour/reload-all-tabs-extension">GitHub</a>,
+      Icon by <a href="http://erensong.com/">Eren Song</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,76 @@
+04:28:50 AM.015: CPU Name: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+04:28:50 AM.015: CPU Speed: 3029.033MHz
+04:28:50 AM.015: Physical Cores: 2, Logical Cores: 4
+04:28:50 AM.015: Physical Memory: 7852MB Total, 5165MB Free
+04:28:50 AM.015: Kernel Version: Linux 4.19.0-6-amd64
+04:28:50 AM.015: Distribution: "SparkyLinux" "5.11"
+04:28:50 AM.016: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.4
+04:28:50 AM.017: Portable mode: false
+04:28:50 AM.082: OBS 23.2.1 (linux)
+04:28:50 AM.082: ---------------------------------
+04:28:50 AM.082: ---------------------------------
+04:28:50 AM.082: audio settings reset:
+04:28:50 AM.082: 	samples per sec: 44100
+04:28:50 AM.082: 	speakers:        2
+04:28:50 AM.089: ---------------------------------
+04:28:50 AM.089: Initializing OpenGL...
+04:28:50 AM.116: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) 
+04:28:50 AM.116: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 18.3.6, shading language 4.50
+04:28:50 AM.143: ---------------------------------
+04:28:50 AM.143: video settings reset:
+04:28:50 AM.143: 	base resolution:   1920x1080
+04:28:50 AM.143: 	output resolution: 960x540
+04:28:50 AM.143: 	downscale filter:  Bicubic
+04:28:50 AM.143: 	fps:               30/1
+04:28:50 AM.143: 	format:            NV12
+04:28:50 AM.143: 	YUV mode:          601/Partial
+04:28:50 AM.144: NV12 texture support not available
+04:28:50 AM.150: Audio monitoring device:
+04:28:50 AM.150: 	name: Default
+04:28:50 AM.150: 	id: default
+04:28:50 AM.150: ---------------------------------
+04:28:50 AM.151: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+04:28:50 AM.236: No blackmagic support
+04:28:50 AM.275: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+04:28:50 AM.275: 
+04:28:50 AM.275: FFMPEG VAAPI supported
+04:28:50 AM.287: VLC found, VLC video source enabled
+04:28:50 AM.287: ---------------------------------
+04:28:50 AM.287:   Loaded Modules:
+04:28:50 AM.287:     vlc-video.so
+04:28:50 AM.287:     text-freetype2.so
+04:28:50 AM.287:     rtmp-services.so
+04:28:50 AM.287:     obs-x264.so
+04:28:50 AM.287:     obs-transitions.so
+04:28:50 AM.287:     obs-outputs.so
+04:28:50 AM.287:     obs-libfdk.so
+04:28:50 AM.287:     obs-filters.so
+04:28:50 AM.287:     obs-ffmpeg.so
+04:28:50 AM.287:     linux-v4l2.so
+04:28:50 AM.287:     linux-pulseaudio.so
+04:28:50 AM.287:     linux-jack.so
+04:28:50 AM.287:     linux-decklink.so
+04:28:50 AM.287:     linux-capture.so
+04:28:50 AM.287:     linux-alsa.so
+04:28:50 AM.287:     image-source.so
+04:28:50 AM.287:     frontend-tools.so
+04:28:50 AM.287:     decklink-ouput-ui.so
+04:28:50 AM.287: ---------------------------------
+04:28:50 AM.287: ==== Startup complete ===============================================
+04:28:50 AM.288: Service '' not found
+04:28:50 AM.289: All scene data cleared
+04:28:50 AM.289: ------------------------------------------------
+04:28:50 AM.292: pulse-input: Server name: 'pulseaudio 12.2'
+04:28:50 AM.292: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+04:28:50 AM.292: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+04:28:50 AM.297: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:50 AM.303: xshm-input: Geometry 1920x1080 @ 0,0
+04:28:50 AM.846: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+04:28:50 AM.846: 
+04:28:51 AM.298: Switched to scene 'Scene'
+04:28:51 AM.298: ------------------------------------------------
+04:28:51 AM.298: Loaded scenes:
+04:28:51 AM.298: - scene 'Scene':
+04:28:51 AM.299:     - source: 'Screen Capture (XSHM)' (xshm_input)
+04:28:51 AM.299: ------------------------------------------------
+04:28:51 AM.300: alsa-input: Failed to open '': Device or resource busy

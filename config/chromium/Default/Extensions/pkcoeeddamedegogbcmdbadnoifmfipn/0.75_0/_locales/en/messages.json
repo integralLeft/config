@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Play face-to-face against your friends."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Cube Slam"
+   }
+}

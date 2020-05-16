@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            html,
+            body,
+            div {
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-size: 100%;
+                font: inherit;
+                vertical-align: baseline;
+            }
+            body {
+                background: #bbb;
+            }
+            #rectA {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                background: yellow;
+                width: 200px;
+                height: 100px;
+                clear: both;
+            }
+
+            #rectB {
+                position: absolute;
+                top: 300px;
+                right: 10px;
+                width: 200px;
+                height: 100px;
+                background: red;
+                clear: both;
+            }
+
+            #rectB:hover {
+                background: green;
+            }
+
+            #rectC {
+                position: absolute;
+                top: 800px;
+                left: 400px;
+                width: 400px;
+                height: 700px;
+                background: blue;
+                clear: both;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <div id="rectA" />
+        </div>
+        <div>
+            <div id="rectB" />
+        </div>
+        <div>
+            <div id="rectC" />
+        </div>
+    </body>
+</html>

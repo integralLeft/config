@@ -1,0 +1,21 @@
+2020/05/16-00:09:58.740 7fdd Reusing MANIFEST /home/xethr/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/16-00:09:58.740 7fdd Recovering log #170
+2020/05/16-00:09:58.745 7fdd Reusing old log /home/xethr/.config/chromium/Default/Sync Data/LevelDB/000170.log 
+2020/05/16-00:10:36.618 265 Level-0 table #174: started
+2020/05/16-00:10:36.630 265 Level-0 table #174: 125660 bytes OK
+2020/05/16-00:10:36.635 265 Delete type=0 #170
+2020/05/16-00:10:36.635 265 Compacting 4@0 + 1@1 files
+2020/05/16-00:10:36.644 265 Generated table #175@0: 2728 keys, 125874 bytes
+2020/05/16-00:10:36.644 265 Compacted 4@0 + 1@1 files => 125874 bytes
+2020/05/16-00:10:36.652 265 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/16-00:10:36.653 265 Delete type=2 #169
+2020/05/16-00:10:36.653 265 Delete type=2 #174
+2020/05/16-00:10:36.653 265 Delete type=2 #171
+2020/05/16-00:10:36.653 265 Delete type=2 #165
+2020/05/16-00:10:36.653 265 Delete type=2 #167
+2020/05/16-00:17:21.950 265 Level-0 table #177: started
+2020/05/16-00:17:21.962 265 Level-0 table #177: 117856 bytes OK
+2020/05/16-00:17:21.967 265 Delete type=0 #173
+2020/05/16-02:41:19.163 265 Level-0 table #179: started
+2020/05/16-02:41:19.168 265 Level-0 table #179: 102894 bytes OK
+2020/05/16-02:41:19.171 265 Delete type=0 #176

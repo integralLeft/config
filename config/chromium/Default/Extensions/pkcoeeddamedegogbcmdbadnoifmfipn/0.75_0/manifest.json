@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "https://www.cubeslam.com/"
+      },
+      "urls": [ "https://cubeslam.com/", "https://www.cubeslam.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "CS_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+/1RRI34VOdfIryIrkL5RYqUVYh5hf6WHRj7uRf/kVOai5qZSwgFUTRRnnaLtUisPFRu4KCRKNBtfT008vegIMeaegetQyvcDZk+Ny6SesCtak2Wtlk482is6m/tgQp5ZlyeSkLTKgPDT/HMehSE6Xr17JZ7+BluFPUzz3BC+mQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.75"
+}

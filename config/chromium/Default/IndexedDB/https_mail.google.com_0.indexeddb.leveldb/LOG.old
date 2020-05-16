@@ -1,0 +1,6 @@
+2020/05/15-18:03:09.590 6a22 Reusing MANIFEST /home/xethr/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/15-18:03:09.590 6a22 Recovering log #3
+2020/05/15-18:03:09.607 6a22 Reusing old log /home/xethr/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2020/05/15-18:04:36.468 6596 Level-0 table #5: started
+2020/05/15-18:04:36.506 6596 Level-0 table #5: 1718747 bytes OK
+2020/05/15-18:04:36.511 6596 Delete type=0 #3

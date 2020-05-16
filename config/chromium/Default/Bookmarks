@@ -1,0 +1,236 @@
+{
+   "checksum": "d17964922a4a8cc76a7bca8fac1a4966",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13114817492030989",
+            "guid": "E326F36B-DFB0-44FF-9699-E095B217E240",
+            "id": "44",
+            "meta_info": {
+               "last_visited": "13202354864603111",
+               "last_visited_desktop": "13205299871926772"
+            },
+            "name": "Amazon",
+            "type": "url",
+            "url": "https://www.amazon.com/?ie=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=linus21-20"
+         }, {
+            "date_added": "13122778977795039",
+            "guid": "c23f71f3-1e50-423e-8bf1-1795d3609505",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13205538766069307"
+            },
+            "name": "Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13134883891933141",
+            "guid": "8cbb0b0d-1c50-47cf-963c-f31a4d1c7f05",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13202479748909844",
+               "last_visited_desktop": "13205535761297690"
+            },
+            "name": "Reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13166999859136140",
+            "guid": "bd3c8c6b-5d42-40e1-8509-2803943cad47",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13205191345389182"
+            },
+            "name": "Discord",
+            "type": "url",
+            "url": "https://discordapp.com/channels/@me"
+         }, {
+            "date_added": "13133638577491028",
+            "guid": "0c4ad96e-4060-49ea-a576-187ec66a7c0b",
+            "id": "45",
+            "meta_info": {
+               "last_visited": "13189673848081621",
+               "last_visited_desktop": "13205195258879146"
+            },
+            "name": "GroupMe",
+            "type": "url",
+            "url": "https://web.groupme.com/signin"
+         }, {
+            "date_added": "13164992530464924",
+            "guid": "50d9e0b0-ad3b-4004-8bad-f5381c317a28",
+            "id": "42",
+            "meta_info": {
+               "last_visited": "13203102991579265",
+               "last_visited_desktop": "13204438766704096"
+            },
+            "name": "Sketchy Math Notes",
+            "type": "url",
+            "url": "http://tutorial.math.lamar.edu/"
+         }, {
+            "date_added": "13207278308703500",
+            "guid": "323dc313-9d21-4c51-9f32-beb870198ee9",
+            "id": "39",
+            "name": "Cornell Student Center",
+            "type": "url",
+            "url": "https://studentcenter.cornell.edu/"
+         }, {
+            "date_added": "13224632485698313",
+            "guid": "b077ea3a-c960-46ee-8374-a85c1c8b550f",
+            "id": "40",
+            "name": "Piazza",
+            "type": "url",
+            "url": "https://piazza.com/class/k5ofiy0fdn351d"
+         }, {
+            "date_added": "13211576058104377",
+            "guid": "5219b801-7af4-4a9b-884b-4df96518917f",
+            "id": "32",
+            "name": "Canvas",
+            "type": "url",
+            "url": "https://canvas.cornell.edu/login/saml"
+         }, {
+            "date_added": "13211613100107044",
+            "guid": "568273e8-49e7-4adc-b208-0dd32d84d270",
+            "id": "43",
+            "name": "Gradescope",
+            "type": "url",
+            "url": "https://www.gradescope.com/login"
+         }, {
+            "date_added": "13233274734493202",
+            "guid": "49c80bda-61ed-4df6-bd4b-ea66f41d496b",
+            "id": "38",
+            "name": "Placeholder Site",
+            "type": "url",
+            "url": "http://i-have-nothing-to-put-here.xyz/"
+         }, {
+            "date_added": "13195716784969117",
+            "guid": "096c5e02-6b71-45a8-bbd7-83e1e55e4fea",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13202876904168085"
+            },
+            "name": "piracy GitHub portal",
+            "type": "url",
+            "url": "https://github.com/Igglybuff/awesome-piracy#preamble"
+         }, {
+            "date_added": "13217350942474313",
+            "guid": "f32a223d-16ec-46de-8fc4-74628542417c",
+            "id": "37",
+            "name": "Linear Algebra Online Textbook",
+            "type": "url",
+            "url": "https://textbooks.math.gatech.edu/ila/index.html"
+         }, {
+            "date_added": "13218922752192828",
+            "guid": "abce6512-2fb9-437f-abfd-1ce7019a706c",
+            "id": "35",
+            "name": "Chegg Solver",
+            "type": "url",
+            "url": "javascript:\"use strict\";var id=document.documentElement.innerHTML.split('pageNameDetailed\":\"')[1].split('\"')[0];document.body.innerHTML='';var div=document.createElement('div');div.innerHTML=id;div.style.color='red';document.body.appendChild(div)"
+         }, {
+            "date_added": "13231702805580536",
+            "guid": "1ad1fc36-070b-4de2-8913-6262e8ed8c59",
+            "id": "36",
+            "name": "WolframArrrpha!",
+            "type": "url",
+            "url": "http://wolframarrrpha.com/"
+         } ],
+         "date_added": "13225280618355272",
+         "date_modified": "13233274734493202",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13164992530464924",
+            "guid": "3691dcb7-ae68-4d36-9cb7-cb9d4303eef2",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13203102991579265",
+               "last_visited_desktop": "13204438766704096"
+            },
+            "name": "Sketchy Math Notes",
+            "type": "url",
+            "url": "http://tutorial.math.lamar.edu/"
+         }, {
+            "date_added": "13159848770758881",
+            "guid": "65698c69-3313-47d0-81de-57600032b6c9",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13165097275107976"
+            },
+            "name": "How to Write an Essay",
+            "type": "url",
+            "url": "http://www.pitt.edu/~kloman/Anthony/news-paper.html"
+         }, {
+            "date_added": "13159848770758881",
+            "guid": "c6f67053-1b9f-4d6f-b927-0e016fe37a26",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13165039767765623"
+            },
+            "name": "How to Write an Essay",
+            "type": "url",
+            "url": "http://www.pitt.edu/~kloman/Anthony/news-paper.html"
+         } ],
+         "date_added": "13225280618355280",
+         "date_modified": "13164992530464924",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13201403374084594",
+            "guid": "35721b29-1587-4c3a-aea0-296abafc9ca2",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13201403374086939"
+            },
+            "name": "Welcome - New Students - Cornell University",
+            "type": "url",
+            "url": "https://newstudents.cornell.edu/"
+         }, {
+            "date_added": "13201403382950213",
+            "guid": "6c85a062-eca0-4431-8164-521c0775289d",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13201403382953222",
+               "last_visited_desktop": "13203219035394623"
+            },
+            "name": "New Students to Cornell Engineering",
+            "type": "url",
+            "url": "https://www.engineering.cornell.edu/students/undergraduate-students/advising/new-students"
+         }, {
+            "date_added": "13201404089021971",
+            "guid": "6cf64e92-8400-46d0-a1f7-712e7e7769ef",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13201404089025406"
+            },
+            "name": "Choosing Your First Math Class | Cornell Engineering",
+            "type": "url",
+            "url": "https://www.engineering.cornell.edu/students/undergraduate-students/advising/new-students/fall-course-information/choosing-your-first"
+         }, {
+            "date_added": "13201405056121267",
+            "guid": "0b21f5d9-a43d-4b15-836c-3a27f1d683ab",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13201405056124455"
+            },
+            "name": "Cornell Engineering Handbook - Fall 2018 - Changing a Grade Option",
+            "type": "url",
+            "url": "http://cornellengineeringhandbook.freeflowdp.com/cornellengineeringhandbook/9622955533597871/MobilePagedArticle.action?articleId=14884#articleId14884"
+         } ],
+         "date_added": "13225280618355282",
+         "date_modified": "13201405056121267",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgMYYqrSlBQAhgMYYqrSlBQAiFAkRuc26tKUFABABGYrNsNf7cxbMMhgKFggCEZEA3Lq0pQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAxhiqtKUFACGAxhiqtKUFADIYChYIAhGRANy6tKUFABgAIQAAAAAAAAAAIABIjN+lzqEucInzkYqVLhIAIAEqGExwL2pIRVVIZXIwSXVJUUpsZEYxeVE9PRLGAQgCEsEBEmZaOkFEcXRBWndKaFFrNmk2bml5NnRvU1QwKzR4ZGxiU0JUemhBbjF3aGZlbCttQTFCNWp2QkxyZlZ2d293cTZHY3FQYWFKdHhNSEt2V3BTZjZMRXFONEd0bndzRyswbUpMb3hBPT0YACAAKAAw5Zzhmo+85wI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WiYiJIAAAAAAAAAAU4LfuWEuvtFZ7VLjkMrNXT2T80ACscRAZRz6fxKLAggtEoYCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6MjNKcFpzKzJQM1ZkczFBaGVHL0VvRG1jai8yZzU3b2pEaHY4UnR0VXJZUkRBbTdEeEZ6RGNLajNuWHA4WGpGTHIyVFhsalc3K0Q5MDZKTGFLb2xjWUZKZGdXMmFVVXA4UlVHdVI2Z0FzMHJlYnYvRCtsZ242ckV3ZVlQd3UwbDZWVnZHWWc9PRgAIAIoAjDdnPrun4DpAjjTipnJqytAuNz505ouShw0S1M4YlhTenRWdE1zYTJuWTdnT1dSb00zUU09WiAiHv/7eHVtQzd1KzY5Mi9xQkgxc3I2aXhFZWI2Ymt3PRKKAgghEoUCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6OXhEd08rdjNGVXZ1ajJnTldtRVY5cUFmZjVwUmZKWkVBSWdFQWlUUzlWN29mb2FDQ2pMU1ZLbFV5WS82VUowRUJCY01CMTVWeWFRUEtWWkZoeSt4aGdDM0xFcXFXU2NBaWpNbkhmZElxNTcwdHp0Q1EyV21mYnZDeHl3ZmFQVEJxajNDS3c9PRgAIAUoBTCFuPPVtrbpAjiE3PeOgytA0rXNy6EuShxqN2FBcm4zZUlLenZINUlhV0pyWFdVeFZXQXc9Wh8iHf91TW0xZGlQSkplaHVPeUxjYStPclhLbFhneXM9EooCCCwShQISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVno5eER3Tyt2M0ZVdnVqMmdOV21FVjlzVUxnTXo4a01YMCtpS2RkVVFzMUxpdUVXcGpjTi9QVUV5RWZyYVo0bDlTNU1BRW1jb0xzQU9QN2F3R3I1RktNVThtbjdDSEx2NTBYQ2FzQVp2aEJDSkVnQUtwVE1mUmQxM1VUbHNFbGJvVEJqY28yZz09GAAgAygDMISu7fHItekCOMCYzbrlKkD/3sa9oS5KHGhha09ncWlEc2VOald4ektGL1psZGtxU1pqRT1aHyId/lA1NndVR0s4UUVzeEprOEt1UldDRnZDa1NOaz0SiQIICRKEAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWelNQODdpMmZyK21Xb3VoMTZMcTVIMzB6Y2xMT1lSVnVmTWZNTW1jUGZSSWZJUUdYcE9MY0xQcnJwdnY4Wm90UEdZblNaN3d4NisrTkhVb1FQdG03aytzMXFBSHpYWUtCUFc1WW9oWnNPTWNScmFkWDd1UFkxNURIOVc1WHdVdllKZ21TVlRBPT0YACAAKAAwqND/sJGa5AI4sOC03KAsQLDgtNygLEocYnBTNnFxbzhNRUJWeEZmOVRUUDNFQzlnM1BnPVoeIhxCTjNmRVJ5bUdGZGNYVFlDM1hwbmQwZkhURFE9EokCCAoShAISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVnpTUDg3aTJmcittV291aDE2THE1SDMzQjFBTlJ4bklKeVNGZjV4SnB6M2NpdWpSMkIwSWRFblBaZmp1bGRwT0VPTlNmdXdwMFhkL1Y2UHd4WUxnMzUxYzd1eFk4SHNWMUVvVzdYZTZXcVRqQXFLcXlrbSt3WTBxRm1DUDJpQUlXb2xiQzREZz09GAAgACgAMIz8jrKF4NkCOLLgtNygLECy4LTcoCxKHDU3YzRjZi9mVVJicWpiUFYzR3J0NVNHUVZNRT1aHiIcYXhmWTEzV29KVXhTZ3dwdm9GTXp4cW4wR3pBPRKMAggrEocCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6VlhoNEZkdmhnNHVHS3IzYzhMRG1GQnEwd2k4S1BOaDE4MGpRQ3d6ckQ1TU51dEZNa2lHd0hsOHY2RzZweWRDTndvc2hGdW1jc0lVMGdlZjVyT1pXT1NTQThMUlFlaTBSQkhIc2lJYnR0RCtuc3lMZlZHR1JUem4rV2ZVem9KSXRHb1FKd3c9PRgAIAQoBDCQ8rbWy7bpAjjNoKyGzi1Ap8alzqEuShxGQTZMb0NKeFMzYVpvNzZ5aHlTdEZsa0xLYU09WiEiH///RnJVNEdaaVI4Q0F2M0ZvZ3JZWHU3eVdhWVVtUT0SjAIIJxKHAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWelZYaDRGZHZoZzR1R0tyM2M4TERtRkVNL3ZKeEdEU2lGa2YzMnhGQ2JjNHlXc1QxZU9KSy9aaDBCZHBJazhGbVg2QldvUW5EeFY2MTAyV0h3WDNlZGhzRWNHNHo4S2dkZTRRZmQ3MVYrME1hRisxQ2xDTXhoTGVSSE5GSmJJWTM0aGdjNGxRPT0YACAAKAAw3Zz67p+A6QI44Mqt870tQLjc+dOaLkocVC8wVzFrN0tQWGx1Ym1xbXhkNklyY2E1T2FZPVohIh///mRnM2VuWXZwWWRzRGdVd210L0xoN2hJWmtjOW89EosCCCIShgISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVnpWWGg0RmR2aGc0dUdLcjNjOExEbUZLZml1OStpUXRSN3d4Titqc3JWWHJEUEVxc0EyMWh2SjRxdWpBTHBja1BMUHprY3dEWlVNdEQwcTlxR2ExcUdDNEtZalJpNVFnUldJMTJIT3lDY0x2cTBaNVpkL1h6bVozRlFiOEN2S0NRQjdtOXVhQT09GAAgCCgIMIvZtbyZoOkCOMmWsuqSLUCT6LXfni5KHC9FWmREVjlNaWUrdEhUazlKS1Q1YmFmSDBnQT1aICIe//9maGN4R3N1SWk0OEdENmhvc09qdzZHRHdncEU9EowCCCgShwISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVnpZOVRnb0szb2lCa0F3ZmhrRnBETFcrQ1FOaDloOFJJUmlBNTd3ZWM0ditNbFZJd3A1S1NmOGdkZXB4bGN0eGQ1VjhFZ2lCSEZ6MzFKN3pzWENnZ2NTbXpvNUt4TGdnM01tTG5XU0phTzQzbnkzaUt0RC9SQkJHMTJrV2JEYWttOVgwN1hDUT09GAAgAygDMN2c+u6fgOkCOMK+vMb+LUC43PnTmi5KHFZjbXR2TEZ1amQ5SlM3RkF4aUlkRlhYc3l3Yz1aISIf//6yTEd6TGsrTUMxa2YzYksxTElMRFRuSGs2dTBrPRKLAgggEoYCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6WTlUZ29LM29pQmtBd2Zoa0ZwRExXK2tFbjQrZU41czhmWUVwME5zb3l5YklDZG9iUzBGOCt5T1J6KzFPSnk5L0pLdHBXNTRYQzlYcHZXdEozTEd5RVlhRlNJUDZ5eFpDTFN3bis5aDlKTkZ5WjEra0N4blBDOS9NclRjVDRvenQ3QmpuTkE9PRgAIAUoBTDki7e+p7bpAjj6sdf0zS1A3IbUyaEuShxOdjRpS1BoVnFqdTI0d1Z5aVpqSWwwcW1zdTA9WiAiHv//QlkvUXJkMmc1WkxaZ3h1ZHZsaUlCbjdIWEhRPRKMAggjEocCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6WTlUZ29LM29pQmtBd2Zoa0ZwRExXMEhLSE5kN2R0Y2ppSHN6MGxKc1VIRzU3ajEreWVDWXkrY1luRmNTeEJoZmM0UzJHRmNPREVIeWRLSFlyTHVyV0pINThOMitmSlBIYUJhY25aSWVPN1MwaExzNnRKazBpTk5RVW9RajFjNGFsbnROM2c9PRgAIAAoADCL2bW8maDpAjjBge6j6S1Ak+i1354uShxEbkwwcmtNaE1jUjhHUFNEa0F3amNTdnd1UDQ9WiEiH///vHFwRllCZFM5R0l2Vm5CQlRJL2lXdDk3M2ttST0SjAIIJhKHAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWelk5VGdvSzNvaUJrQXdmaGtGcERMVzY0MW5ielU1SGM2b3Q5ekVsaW8rYkpXbWZNb3JHRmRrSC9lQTVHeEtDUklBOVNLSmMvWStVMW43aDM0UmwwWlppV0JnV2JJdVZzVzV6bHJWeG9qKzJqUlh4RlJFcnljT1RiY1R2V1FzZTFzSmFxNHpRPT0YACACKAIw5Iu3vqe26QI4nb+1354uQNyG1MmhLkoccSt3NnI4enB0T2VKV0xQNGVmc0F3Qm5ucEE0PVohIh///01WcWw1dGtzQ1J1S0xMYjRocWFmWG9WMGg3QkU9EowCCCQShwISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVnpZOVRnb0szb2lCa0F3ZmhrRnBETFd3d1BYWW9jZ0pTZkxVSnZXNzlwUkwvQ0Y4UGpISzNQRG1ubXhKckcwOFhMWWlHWWhRY1dhd2tIdktnRjVKUUVxbGREQi9BSGZuQVpXQ25sLzF4ejhQUS9UcjdtcmtMTzljclYrSXoxMUZ6NERCK0MvQT09GAAgASgBMIuqsdqsrekCOMzI7vGYLkDq7++2oC5KHFpXU1BRc1dSVG1GdHZCaSt3cG5qKzNBSy9obz1aISIf///eUkR2UUswb3lKL2ZFYVdoV3gxZjk0WVE1UFVRPRKLAgglEoYCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6WTlUZ29LM29pQmtBd2Zoa0ZwRExXenhzZnQwVnhTakpGOWlTajU3OFFHUVFPdWw2cnl6OEd5V2dYVzgzRjVFaFEwdlZ3ZjZ1NkIxNTNUeHpGTlZBU3I1QndSRVkxdmpPZEp5UGM5dFYrVlVMVytyUmVHcU1jTHJXdjRJS3pWS0hMNU1jOWc9PRgAIAIoAjCL2bW8maDpAjiKrq624y1Ak+i1354uShw4NXFTSldiMTJUTzlSTjc3SG52ZHpyRWJZTzg9WiAiHv//eEZDZUVzOUxwaE5BcFYzWXMwdU11MjF3cGVjPRKLAggqEoYCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6WVFhSmo1V01OR21RdERpWm5YbnJ6ZlhGRGFvNEJFS2pYMEs5WWFyd3lBSHh6QmdNdlBjTkZVbTcwMWpYS0M2U3Vqb2tyVE1vN3JqTHZzRHhaNGgrSTZQTFF6NHM0eFp0cjVrZ2VFamtGVHlrek1odDYvT0g1QVdDQnFGSzByMXh4OG9ZZmc9PRgAIAAoADDdnPrun4DpAjihwPavoCxAuNz505ouShxMc2ViUlUxMjhFT2YrYkpzRGJBKzcvNU5kMUE9WiAiHv/9QkVJUllTZ1NjVDVZNlpiTXpKQ3FHcllMZ1hjPRKJAggGEoQCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6YldTWWN1SVlVNDNaSUdJSDRpNnNZVDBWWmhxSlBoMmUzMkcwc0F3U25Lbi9SZVIySk9ZclpYeUQvcUI4cGVGMjRrK1pUNDEycE4vQnJDejhxMjF1U1pNMW1mWk1OejVmYWhKUWY0RHByeUFsLzRMT01rUjdxd2ZXN0k4VzJTR3cxWDFXSmc9PRgAIAAoADDMuqShu7XiAjioyfyBqC1AqMn8gagtShxqTU1MMnRVWW4rSnVJazFOdzJQL045emZoNGc9Wh4iHGVROFFTdGY3MU9Ud0hpUHl6WHI1TjIwRGcxOD0SiQIIBRKEAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWemJXU1ljdUlZVTQzWklHSUg0aTZzWVVZMWh4TlJ2OE4weEY5OHlKRzkvU1hVZWwyMVAyb3E3bmNRWlBBS0h0SE1SWWlHSXU3SHk3T3VxVG1jc0dkbCtiSlZZNW5KbGdRWERQc2daa0RUUkkyQ0ZPM0twWStDOHN1ZHg0V28zdnh2OTkyY293PT0YACAAKAAw3pSIsc+A4gI4h4T8gagtQIeE/IGoLUocOW1wallyKzhkWFl4RlBtaDFnWlV4ejA0THlnPVoeIhwyRnNuWDczUGxsbm9FS1Y1d0Y4YzhCZWx5TzA9EokCCAcShAISpgFaOkFEcXRBWngvNC9lZDdCVU5KOGM1TWJiT1BIVnpiV1NZY3VJWVU0M1pJR0lINGk2c1lWZVFTUXg1NUN6OXZQbUR0NldNUGhXTXRveXFwRFNDQWFoYjVQZUlPaVIzNVdPcWFSa2VYWlVaKzBYK3Nnc04zVjhHQ3J4aEk0RFN6MUREVEk0eDhmU3d6QnZrQit6bHhLVVBpVUYxMW5ZejIrTDhIZz09GAAgACgAMNeto4bSgOICOMDVp4KoLUDA1aeCqC1KHHB2cHRpTXNBUU1JWFJ0YkdDbHlmSElqY0Q2VT1aHiIcZ3FQS29DSGo2WEV2L2h0UVJuU2VoNUxKVnA4PRKJAggIEoQCEqYBWjpBRHF0QVp4LzQvZWQ3QlVOSjhjNU1iYk9QSFZ6YldTWWN1SVlVNDNaSUdJSDRpNnNZYk5NRStrSmRjbGRBTENSRGRlUXZpdG9HaXBicW5ESWdpWGt0TklPT3VzM2MrWkI2MERqYnVXRStac2I1eTdsTkdQZlVNejFNSWFNUDRpaXJZTWRDSjZWNm9hb0Nwb1VCR1Q3RDhiRzdtT3BsN3cyWlE9PRgAIAAoADDW4LfT1YDiAjj72OKCqC1A+9jigqgtShwwZnloTURrdnFKWUhubkdNK3A0d1RZUE0yNGc9Wh4iHHRjbjAwbWFKNFpvU2J5MmR6blVmOE5BMTViOD0SiwIIKRKGAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWemV3eXl3V3c2VzBycm8yQ2VZeU5tcUxBRHRmd1VIT3M5b2I3L1RtSUVBUEpuOXhlZnlUdmhMSSsyWjVsbGROWWVjUUxpS0J2VjR4WXc5aU5wL1ZNeWxHZG40aE1qTTYzZThnYk9PZWRPNFppSndnNnZYdFRJblB0VVBxNzNjeHFBWWVzTUNRPT0YACACKAIw3Zz67p+A6QI4wY+M7acsQLjc+dOaLkocYXp6ZXQ1em5nd1o3ZmQ4cHpma1VXbFFPSXRBPVogIh7/40l3TGtUWU1naVk4QTZra0IxcC8yYzhEOXduMD0SiwIIHxKGAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWemZCMXRxMTJPVlc4bnBrWWlvYWFScmM0b1o0Wnd4Z0hRODFiaTdld0dha3NjcHZabVRreE5sVURtR3lCamVvSlB5UGNXQy84YVBCRU1ONU14Ylo3TUdQSUJJMXNpSXNlMFFaMkxsbGc2R3dVdlFJOFlpTTZReXFtdXVVaVVaT0MyQVlnNjl3PT0YACALKAswgsmE87u26QI43YWBm7ArQNeTo8yhLkocWitXUjNBbDk5WXBYbkNlalNRVGRXNDU3REhnPVogIh7/skVrVVMyekRIc0xFS0FOc25JN3ZuL3cyblhKbz0SiQIICxKEAhKmAVo6QURxdEFaeC80L2VkN0JVTko4YzVNYmJPUEhWemZRQXgzcS9vYnF0dUxUR09VN1VTNlM4c3piZGswNGRMUU5XSkQ0MEtsbDJVQmVwQ2VpOVNLaXZXQzNiMWs0YTJZM3ZIclVxN3JrNFpmbHg1WmxiSzJ6NUlpd0YxSVhnSHBvZFpmcFZtMGlDKy9xZTRDNE9DeWxiM01mcmVManMycDFCSHhnPT0YACAAKAAw9vTr/a+L2gI4x6mYm40sQMepmJuNLEocWCtlcnJjbzhYcFFTQkRmSFM5MWtpVk4zZlp3PVoeIhx0SDlRNzhDTEpqeFUxdWNmenV0b2Y2b3cwK1k9EsYBCAMSwQESZlo6QURxdEFaeUxQeXR0UStpTHl6Tzhwek00S2ZERWthWG5BcXZaUFlZMTRYWXRzcjFkUUN3WWsvK045emNISU5BajdGSGNoWjQ4RkZ0aDRXZUhIckYxK3J1R0ZtNWwxVGY1eEE9PRgAIAAoADDlnOGaj7znAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aJiIkgAAAAAAAAADKE22q8c/lacb4x7qPvwEODON3q/nI3RIAtP9/Eq4BCAESqQESTlo6QURxdEFaeXZJay91MkRJeHRTNHkrc3dLV3ZYUnZoNlN0ZmNmR21VOW5UNkpIZ3ZmRVdQWjAvTVIzaExkQVBWZTFLYkY0bVlaKzNXQhgAIAAoADDlnOGaj7znAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aJiIkgAAAAAAAAACv9h/aRNkuTelSVCftoY5qHSDeCrW6Ft2L3C5/",
+   "version": 1
+}

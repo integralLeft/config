@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Text tools</title>
+	<link rel="stylesheet" href="main.css">
+</head>
+<body>
+<form>
+<p class="area" id="tools">
+	<textarea placeholder="Your text" id="source"></textarea>
+</p>
+<div id="command" class="area">
+	<label for="convertors">Operation</label>
+	<select role="button" id="convertors">
+			<option value="">Loading...</option>
+	</select>
+	<a id="help" href="#" title="Help on selected command">?</a>
+	<input type="text" id="param1" />
+	<input type="text" id="param2" />
+	<button class="recommend" id="convert">Start</button>
+	<button id="up" title="Move result up">^</button>
+</div>
+<p class="area">
+	<textarea id="target" placeholder="Result"></textarea>
+</p>
+</form>
+
+<div id="operations">
+
+	<p id="uppercase"><b>Uppercase</b> - converts all characters to upper case <a href="#tools">↑</a></p>
+
+	<p id="titlecase"><b>Title Case</b> - capitalizes every first character of word <a href="#tools">↑</a></p>
+
+	<p id="lowercase"><b>Lowercase</b> - converts all characters to lower case <a href="#tools">↑</a></p>
+
+	<p id="countchars"><b>Count characters</b> - counts all characters in text <a href="#tools">↑</a></p>
+
+	<p id="countwords"><b>Count words</b> - counts words in text <a href="#tools">↑</a></p>
+
+	<p id="countlines"><b>Count lines</b> - counts new lines in text <a href="#tools">↑</a></p>
+
+	<p id="rot13"><b>Rotate 13</b> - Moves each character with 13 positions forward in the ASCII table <a href="#tools">↑</a></p>
+
+	<p id="sortlinesalphaci"><b>Sort lines alpha (case insensitive)</b> - Sorts text lines alphabetically ignoring character case <a href="#tools">↑</a></p>
+
+	<p id="sortlinesalpha"><b>Sort lines alpha</b> - Sorts text lines alphabetically <a href="#tools">↑</a></p>
+
+	<p id="wordfreq"><b>Word frequency</b> - How many times each word is used <a href="#tools">↑</a></p>
+
+	<p id="charfreq"><b>Character frequency</b> - How many times each character is used <a href="#tools">↑</a></p>
+
+	<p id="columnextract" data-param1="Column number"><b>Column from table</b> - Allows you to get text column from HTML table. Copy and paste the table content in the text field and type the column number you want to extract then press Start <a href="#tools">↑</a></p>
+
+	<p id="trimlines"><b>Trim lines</b> - Removes whitespace from end of lines <a href="#tools">↑</a></p>
+
+	<p id="replace_new_line" data-param1="Find"><b>Replace text with new line</b> - Replaces string with new line <a href="#tools">↑</a></p>
+
+	<p id="replace" data-param1="Find" data-param2="Replace"><b>Replace text</b> - Replaces one string with another <a href="#tools">↑</a></p>
+
+	<p id="jsonformat"><b>Format JSON</b> - Pretty format JSON string <a href="#tools">↑</a></p>
+
+	<p id="urlencode"><b>URLEncode</b> - Encode string as URL safe string <a href="#tools">↑</a></p>
+
+	<p id="urldecode"><b>URLDecode</b> - Decode URL safe string as regular string <a href="#tools">↑</a></p>
+
+	<p id="base64encode"><b>base64encode</b> - Encode text as base64 <a href="#tools">↑</a></p>
+
+	<p id="base64decode"><b>base64decode</b> - Decode base64 sting <a href="#tools">↑</a></p>
+
+	<p id="addlinenumbers"><b>Add line numbers</b> - Add line number before every line of text <a href="#tools">↑</a></p>
+
+	<p id="splittext" data-param1="Separator"><b>Split text</b> - Splits text by separator <a href="#tools">↑</a></p>
+
+	<p id="reverse"><b>Reverse text</b> - Reverses text <a href="#tools">↑</a></p>
+
+	<p id="generate_numbers" data-param1="From number" data-param2="To number"><b>Generate numbers</b> - Generates numbers withing the provided range <a href="#tools">↑</a></p>
+
+	<p id="unix_to_datetime"><b>Unix to date</b> - Converts UNIX timestamp to Datetime string <a href="#tools">↑</a></p>
+
+	<p id="check_hash"><b>Identify Hash</b> - Try to identify hash string <a href="#tools">↑</a></p>
+
+	<p id="prefix_suffix" data-param1="Prefix" data-param2="Suffix"><b>Prefix/Suffix lines</b> - Adds prefix and/or suffix to each line of the text <a href="#tools">↑</a></p>
+
+	<p id="format_numbers"><b>Format Numbers</b> - Format numbers according to the current browser locale <a href="#tools">↑</a></p>
+
+	<p id="underscore"><b>Underscore</b> - adds underscore to the text <a href="#tools">↑</a></p>
+
+	<p id="strikeout"><b>Strikeout</b> - strikes out the text <a href="#tools">↑</a></p>
+
+	<p id="shuffle"><b>Shuffle</b> - Shuffle the lines of the text <a href="#tools">↑</a></p>
+
+	<p id="remove_duplicate"><b>Remove duplicate lines</b> - Removes duplicate lines from the text <a href="#tools">↑</a></p>
+
+</div>
+
+
+<script src="/js/jquery-latest.min.js"></script>
+<script src="/js/text-tools-online.js"></script>
+<script src="/js/chrome.js"></script>
+</body>
+</html>

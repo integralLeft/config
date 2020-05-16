@@ -1,0 +1,34 @@
+2020/02/06-12:52:42.883 29e1 Reusing MANIFEST /home/xethr/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/06-12:52:42.883 29e1 Recovering log #19
+2020/02/06-12:52:42.883 29e1 Reusing old log /home/xethr/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000019.log 
+2020/02/06-12:52:57.603 2223 Compacting 1@0 + 1@1 files
+2020/02/06-12:52:57.626 2223 Generated table #22@0: 203 keys, 2256033 bytes
+2020/02/06-12:52:57.638 2223 Generated table #23@0: 21 keys, 1751476 bytes
+2020/02/06-12:52:57.638 2223 Compacted 1@0 + 1@1 files => 4007509 bytes
+2020/02/06-12:52:57.642 2223 compacted to: files[ 0 2 2 0 0 0 0 ]
+2020/02/06-12:52:57.642 2223 Delete type=2 #18
+2020/02/06-12:52:57.642 2223 Delete type=2 #20
+2020/02/06-12:53:00.002 2223 Level-0 table #25: started
+2020/02/06-12:53:00.031 2223 Level-0 table #25: 4767495 bytes OK
+2020/02/06-12:53:00.035 2223 Delete type=0 #19
+2020/02/06-12:53:00.795 2223 Level-0 table #27: started
+2020/02/06-12:53:00.822 2223 Level-0 table #27: 4497649 bytes OK
+2020/02/06-12:53:00.826 2223 Delete type=0 #24
+2020/02/06-12:53:58.560 2223 Level-0 table #29: started
+2020/02/06-12:53:58.593 2223 Level-0 table #29: 7194145 bytes OK
+2020/02/06-12:53:58.597 2223 Delete type=0 #26
+2020/02/06-12:54:36.098 2223 Level-0 table #31: started
+2020/02/06-12:54:36.119 2223 Level-0 table #31: 4252589 bytes OK
+2020/02/06-12:54:36.122 2223 Delete type=0 #28
+2020/02/06-12:54:36.123 2223 Compacting 4@0 + 2@1 files
+2020/02/06-12:54:36.141 2223 Generated table #32@0: 421 keys, 2261104 bytes
+2020/02/06-12:54:36.166 2223 Generated table #33@0: 6 keys, 2206256 bytes
+2020/02/06-12:54:36.183 2223 Generated table #34@0: 27 keys, 1743438 bytes
+2020/02/06-12:54:36.184 2223 Compacted 4@0 + 2@1 files => 6210798 bytes
+2020/02/06-12:54:36.190 2223 compacted to: files[ 0 3 2 0 0 0 0 ]
+2020/02/06-12:54:36.190 2223 Delete type=2 #23
+2020/02/06-12:54:36.190 2223 Delete type=2 #25
+2020/02/06-12:54:36.190 2223 Delete type=2 #31
+2020/02/06-12:54:36.190 2223 Delete type=2 #29
+2020/02/06-12:54:36.190 2223 Delete type=2 #22
+2020/02/06-12:54:36.190 2223 Delete type=2 #27

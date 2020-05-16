@@ -1,0 +1,20 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="backgroundStars" type="int">1</pref>
+	<pref name="customButton01" type="string">Sm95c3RpY2s4QnV0dG9uMTk=</pref>
+	<pref name="customButton02" type="string">Sm95c3RpY2s4QnV0dG9uMTk=</pref>
+	<pref name="customButton03" type="string">Sm95c3RpY2s4QnV0dG9uMTk=</pref>
+	<pref name="customButton04" type="string">Sm95c3RpY2s4QnV0dG9uMTk=</pref>
+	<pref name="customButtonAxis01" type="string"></pref>
+	<pref name="customButtonAxis02" type="string"></pref>
+	<pref name="customButtonAxis03" type="string"></pref>
+	<pref name="customButtonAxis041" type="string"></pref>
+	<pref name="customControls" type="int">0</pref>
+	<pref name="resolutionCustom" type="int">-1</pref>
+	<pref name="unity.player_session_count" type="string">Mg==</pref>
+	<pref name="unity.player_sessionid" type="string">NzUxMzIzMDQ5NjE3NDQ5MDE4MQ==</pref>
+</unity_prefs>

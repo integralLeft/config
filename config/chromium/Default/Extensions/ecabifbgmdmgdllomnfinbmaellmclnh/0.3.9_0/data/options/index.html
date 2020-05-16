@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reader View :: Options</title>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font-family: "Helvetica Neue",Helvetica,sans-serif;
+      font-size: 13px;
+      padding: 10px;
+      min-width: 500px;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    textarea {
+      width: 100%;
+      font-family: monospace;
+      font-size: 12px;
+      line-height: 12px;
+      margin-top: 5px;
+    }
+    th {
+      text-align: left;
+      font-weight: 500;
+      padding: 5px;
+      background-color: rgba(0, 0, 0, 0.05);
+      white-space: nowrap;
+    }
+    input[type=number] {
+      width: 100%;
+      box-sizing: border-box;
+    }
+    #auto-permission {
+      float: right;
+    }
+    textarea:disabled {
+      opacity: 0.4;
+    }
+  </style>
+</head>
+
+<body>
+  <table width=100%>
+    <colgroup>
+      <col width=32>
+      <col>
+      <col>
+    </colgroup>
+    <thead>
+      <tr>
+        <th colspan="3">UI Customization</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><input type="checkbox" id="printing-button"></td>
+        <td colspan="2"><label for="printing-button">Show "printing button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="save-button"></td>
+        <td colspan="2"><label for="save-button">Show "save button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="fullscreen-button"></td>
+        <td colspan="2"><label for="fullscreen-button">Show "fullscreen button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="speech-button"></td>
+        <td colspan="2"><label for="speech-button">Show "speech button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="images-button"></td>
+        <td colspan="2"><label for="images-button">Show "toggle images button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="highlight-button"></td>
+        <td colspan="2"><label for="highlight-button">Show "toggle highlight button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="design-mode-button"></td>
+        <td colspan="2"><label for="design-mode-button">Show "toggle design mode button" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="navigate-buttons"></td>
+        <td colspan="2"><label for="navigate-buttons">Show "navigation buttons" in the reader view</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="context-open-in-reader-view"></td>
+        <td colspan="2"><label for="context-open-in-reader-view">Show "Open in Reader View" context-menu item</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="context-open-in-reader-view-bg"></td>
+        <td colspan="2"><label for="context-open-in-reader-view-bg">Show "Open in background Reader View" context-menu item</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="context-switch-to-reader-view"></td>
+        <td><label for="context-switch-to-reader-view">Show "Switch to Reader View" context-menu item (restart required)</l colspan="2"abel></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="auto-fullscreen"></td>
+        <td colspan="2"><label for="auto-fullscreen">Automatically switch to the fullscreen (window mode)</label></td>
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="3"><a id="ref" href="#">Custom styling</a> (reader view):</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="3">
+          <textarea placeholder="User styles for the actual reader-view" id="user-css" rows="15"></textarea>
+        </td>
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="3"><a id="ref" href="#">Custom styling</a> (top frame and sidebar):</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="3">
+          <textarea placeholder="User styles for top frame (sidebar mainly)" id="top-style" rows="4"></textarea>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+    <thead>
+      <tr>
+        <th colspan="3">Link Opening</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><input type="checkbox" id="reader-mode"></td>
+        <td colspan="2"><label for="reader-mode">Open links in the reader view mode</label></td>
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="3">TTS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+          <label for="tts-delay"> Delay between paragraphs (in milliseconds)</label>
+        </td>
+        <td><input type="number" min="0" id="tts-delay"></td>
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="2">Automatic Switch</th>
+        <th><a href="#" id="auto-permission">Request Access</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="3">
+          <textarea disabled placeholder="A comma-separated list of hostnames or regular expressions to automatically switch to the reader view if the 'request access' is granted (e.g.: google.com, r:\w+\.google\.com)" id="auto-rules" rows="4"></textarea>
+        </td>
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="3">Misc</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><input type="checkbox" id="faqs"></td>
+        <td colspan="2"><label for="faqs"> Open FAQs page on updates</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="cache-highlights"></td>
+        <td colspan="2"><label for="cache-highlights"> Restore the user highlights when possible (if checked, the extension tries to persist the user highlights for each page during the current session or until the background page unloads)</label></td>
+      </tr>
+      <tr>
+        <td><input type="checkbox" id="embedded"></td>
+        <td colspan="2"><label for="embedded"> Simple mode (do not redirect to the reader view, instead update the current document) (not recommended)</label></td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    Rate "<b><a id="rate" href="https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh/reviews" style="text-decoration: none">Reader View</a></b>" extension
+  </p>
+  <div id="explore" data-inc=50></div>
+  <p>
+    <button id="import-highlights" title="Import a JSON file containing the user highlights from a previous session and append it into the currently available cache">Import Highlights</button>
+    <button id="export-highlights" title="Export the current cache of the user highlights to a JSON file">Export Highlights</button>
+  </p>
+  <p>
+    <button id="support">Support Development</button>
+    <button id="reload" title="Restart the runtime">Restart</button>
+    <button id="reset" title="Reset all settings to the factory values">Reset</button> - <button id="save">Save</button>
+    <span id="status"></span>
+  </p>
+
+  <script src="/config.js"></script>
+  <script src="index.js"></script>
+  <script async src="matched.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+03:50:27 AM.715: CPU Name: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+03:50:27 AM.715: CPU Speed: 1244.708MHz
+03:50:27 AM.716: Physical Cores: 2, Logical Cores: 4
+03:50:27 AM.716: Physical Memory: 7852MB Total, 7353MB Free
+03:50:27 AM.716: Kernel Version: Linux 4.19.0-6-amd64
+03:50:27 AM.716: Distribution: "SparkyLinux" "5.11"
+03:50:27 AM.718: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.4
+03:50:27 AM.721: Portable mode: false
+03:50:27 AM.852: OBS 23.2.1 (linux)
+03:50:27 AM.852: ---------------------------------
+03:50:27 AM.853: ---------------------------------
+03:50:27 AM.853: audio settings reset:
+03:50:27 AM.853: 	samples per sec: 44100
+03:50:27 AM.853: 	speakers:        2
+03:50:27 AM.862: ---------------------------------
+03:50:27 AM.863: Initializing OpenGL...
+03:50:27 AM.893: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) 
+03:50:27 AM.894: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 18.3.6, shading language 4.50
+03:50:27 AM.927: ---------------------------------
+03:50:27 AM.927: video settings reset:
+03:50:27 AM.927: 	base resolution:   1920x1080
+03:50:27 AM.927: 	output resolution: 960x540
+03:50:27 AM.927: 	downscale filter:  Bicubic
+03:50:27 AM.927: 	fps:               30/1
+03:50:27 AM.927: 	format:            NV12
+03:50:27 AM.927: 	YUV mode:          601/Partial
+03:50:27 AM.927: NV12 texture support not available
+03:50:27 AM.933: Audio monitoring device:
+03:50:27 AM.933: 	name: Default
+03:50:27 AM.933: 	id: default
+03:50:27 AM.933: ---------------------------------
+03:50:27 AM.937: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+03:50:28 AM.095: No blackmagic support
+03:50:28 AM.217: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+03:50:28 AM.217: 
+03:50:28 AM.217: FFMPEG VAAPI supported
+03:50:28 AM.244: VLC found, VLC video source enabled
+03:50:28 AM.244: ---------------------------------
+03:50:28 AM.244:   Loaded Modules:
+03:50:28 AM.244:     vlc-video.so
+03:50:28 AM.244:     text-freetype2.so
+03:50:28 AM.244:     rtmp-services.so
+03:50:28 AM.244:     obs-x264.so
+03:50:28 AM.244:     obs-transitions.so
+03:50:28 AM.244:     obs-outputs.so
+03:50:28 AM.244:     obs-libfdk.so
+03:50:28 AM.244:     obs-filters.so
+03:50:28 AM.244:     obs-ffmpeg.so
+03:50:28 AM.244:     linux-v4l2.so
+03:50:28 AM.244:     linux-pulseaudio.so
+03:50:28 AM.244:     linux-jack.so
+03:50:28 AM.244:     linux-decklink.so
+03:50:28 AM.244:     linux-capture.so
+03:50:28 AM.244:     linux-alsa.so
+03:50:28 AM.244:     image-source.so
+03:50:28 AM.244:     frontend-tools.so
+03:50:28 AM.244:     decklink-ouput-ui.so
+03:50:28 AM.244: ---------------------------------
+03:50:28 AM.244: ==== Startup complete ===============================================
+03:50:28 AM.245: Service '' not found
+03:50:28 AM.248: All scene data cleared
+03:50:28 AM.248: ------------------------------------------------
+03:50:28 AM.250: pulse-input: Unable to get server info !
+03:50:28 AM.256: xshm-input: Geometry 1920x1080 @ 0,0
+03:50:28 AM.260: Switched to scene 'Scene'
+03:50:28 AM.260: ------------------------------------------------
+03:50:28 AM.260: Loaded scenes:
+03:50:28 AM.260: - scene 'Scene':
+03:50:28 AM.260:     - source: 'Screen Capture (XSHM)' (xshm_input)
+03:50:28 AM.260:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+03:50:28 AM.260: ------------------------------------------------
+04:13:10 AM.666: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+04:13:21 AM.969: alsa-input: PCM 'default' rate set to 44100
+04:13:21 AM.969: alsa-input: PCM 'default' channels set to 2
+04:13:21 AM.987: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+04:13:22 AM.569: adding 69 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Audio Capture Device (ALSA))
+04:13:22 AM.569: 
+04:13:24 AM.255: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+04:13:24 AM.255: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+04:13:24 AM.645: adding 348 milliseconds of audio buffering, total audio buffering is now 417 milliseconds (source: Audio Capture Device (ALSA))
+04:13:24 AM.645: 
+04:13:26 AM.888: adding 23 milliseconds of audio buffering, total audio buffering is now 441 milliseconds (source: Audio Capture Device (ALSA))
+04:13:26 AM.888: 
+04:19:03 AM.861: alsa-input: PCM 'default' rate set to 44100
+04:19:03 AM.861: alsa-input: PCM 'default' channels set to 2
+04:19:03 AM.907: adding 46 milliseconds of audio buffering, total audio buffering is now 487 milliseconds (source: Audio Capture Device (ALSA))
+04:19:03 AM.907: 
+04:21:05 AM.405: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene'
+04:21:16 AM.474: pulse-input: Unable to get server info !
+04:21:16 AM.481: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+04:21:24 AM.136: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+04:26:50 AM.962: pulse-input: Server name: 'pulseaudio 12.2'
+04:26:50 AM.963: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+04:26:50 AM.964: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+04:26:50 AM.970: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+04:27:12 AM.511: pulse-input: Stopped recording from 'default'
+04:27:12 AM.512: pulse-input: Got 2186 packets with 949928 frames
+04:27:12 AM.513: pulse-input: Server name: 'pulseaudio 12.2'
+04:27:12 AM.514: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+04:27:12 AM.515: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+04:27:13 AM.040: adding 46 milliseconds of audio buffering, total audio buffering is now 534 milliseconds (source: Audio Input Capture (PulseAudio))
+04:27:13 AM.040: 
+04:27:26 AM.021: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+04:27:26 AM.042: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+04:27:26 AM.042: pulse-input: Got 1368 packets with 596488 frames
+04:27:31 AM.422: alsa-input: Failed to open 'default': Device or resource busy
+04:27:31 AM.428: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+04:27:32 AM.427: alsa-input: Failed to open 'default': Device or resource busy
+04:27:34 AM.432: alsa-input: Failed to open 'default': Device or resource busy
+04:27:36 AM.049: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:37 AM.051: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:39 AM.053: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:42 AM.054: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:46 AM.056: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:51 AM.057: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:27:56 AM.058: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:01 AM.060: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:06 AM.062: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:11 AM.063: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:16 AM.064: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:17 AM.833: pulse-input: Server name: 'pulseaudio 12.2'
+04:28:17 AM.833: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+04:28:17 AM.833: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+04:28:17 AM.834: Settings changed (audio)
+04:28:17 AM.834: ------------------------------------------------
+04:28:21 AM.066: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:26 AM.067: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:31 AM.069: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+04:28:33 AM.887: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene'
+04:28:36 AM.071: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy

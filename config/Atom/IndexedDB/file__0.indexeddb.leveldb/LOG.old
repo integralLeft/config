@@ -1,0 +1,9 @@
+2020/05/15-23:57:00.550 31936 Reusing MANIFEST /home/xethr/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/05/15-23:57:00.551 31936 Recovering log #54
+2020/05/15-23:57:00.553 31936 Reusing old log /home/xethr/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000054.log 
+2020/05/16-00:02:11.338 32126 Level-0 table #58: started
+2020/05/16-00:02:11.368 32126 Level-0 table #58: 762661 bytes OK
+2020/05/16-00:02:11.374 32126 Delete type=0 #54
+2020/05/16-00:03:52.973 32126 Level-0 table #60: started
+2020/05/16-00:03:53.007 32126 Level-0 table #60: 750066 bytes OK
+2020/05/16-00:03:53.012 32126 Delete type=0 #57

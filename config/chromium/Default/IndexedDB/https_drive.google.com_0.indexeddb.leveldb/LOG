@@ -1,0 +1,9 @@
+2020/05/15-17:48:08.192 6562 Reusing MANIFEST /home/xethr/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/15-17:48:08.193 6562 Recovering log #30
+2020/05/15-17:48:08.193 6562 Reusing old log /home/xethr/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000030.log 
+2020/05/15-17:48:10.372 6596 Level-0 table #37: started
+2020/05/15-17:48:10.406 6596 Level-0 table #37: 4453422 bytes OK
+2020/05/15-17:48:10.410 6596 Delete type=0 #30
+2020/05/15-17:48:23.971 6596 Level-0 table #39: started
+2020/05/15-17:48:24.011 6596 Level-0 table #39: 7751972 bytes OK
+2020/05/15-17:48:24.018 6596 Delete type=0 #36

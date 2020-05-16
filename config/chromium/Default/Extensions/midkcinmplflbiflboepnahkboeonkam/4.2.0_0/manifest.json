@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/functions.js", "js/reload_controller.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon128.png",
+      "default_title": "Reload All Tabs"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt + Shift + R",
+            "mac": "Alt + Shift + R"
+         }
+      }
+   },
+   "description": "Reload All tabs using keyboard shortcut(alt + shift + r), context menu, or browser action button.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCm0w2l8zsTPtifTWSXefNE37dWbKsFl5kAnf3sDj5Qaetmteo57tmjL9jWRzsNDjQG2C131YLGRw5EfZOok84Fk5Jj2DgElPbiKXB9S5Tt8Flf57o8tL0LmsuhxkpbdUcAV4N+Zf5uqHLaj8hxhVyNJH50GKqinfimG5Fx75uKCwIDAQAB",
+   "manifest_version": 2,
+   "name": "Reload All Tabs",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.2.0"
+}

@@ -1,0 +1,14 @@
+# GIMP action-history
+
+(history-item "edit-paste" 5)
+(history-item "image-new" 0)
+(history-item "tools-move" 0)
+(history-item "edit-copy" 0)
+(history-item "dialogs-layers" 0)
+(history-item "file-export" 0)
+(history-item "file-quit" 1)
+(history-item "file-open" 0)
+(history-item "select-all" 0)
+(history-item "file-save-as" 1)
+
+# end of action-history

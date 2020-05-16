@@ -1,0 +1,185 @@
+03:20:54 AM.524: CPU Name: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+03:20:54 AM.525: CPU Speed: 2632.518MHz
+03:20:54 AM.525: Physical Cores: 2, Logical Cores: 4
+03:20:54 AM.525: Physical Memory: 7852MB Total, 5303MB Free
+03:20:54 AM.525: Kernel Version: Linux 4.19.0-6-amd64
+03:20:54 AM.525: Distribution: "SparkyLinux" "5.11"
+03:20:54 AM.526: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.4
+03:20:54 AM.526: Portable mode: false
+03:20:54 AM.631: OBS 23.2.1 (linux)
+03:20:54 AM.631: ---------------------------------
+03:20:54 AM.631: ---------------------------------
+03:20:54 AM.631: audio settings reset:
+03:20:54 AM.631: 	samples per sec: 44100
+03:20:54 AM.631: 	speakers:        2
+03:20:54 AM.638: ---------------------------------
+03:20:54 AM.638: Initializing OpenGL...
+03:20:54 AM.665: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) 
+03:20:54 AM.665: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 18.3.6, shading language 4.50
+03:20:54 AM.703: ---------------------------------
+03:20:54 AM.703: video settings reset:
+03:20:54 AM.703: 	base resolution:   1920x1080
+03:20:54 AM.703: 	output resolution: 1280x720
+03:20:54 AM.703: 	downscale filter:  Bicubic
+03:20:54 AM.703: 	fps:               30/1
+03:20:54 AM.703: 	format:            NV12
+03:20:54 AM.703: 	YUV mode:          601/Partial
+03:20:54 AM.704: NV12 texture support not available
+03:20:54 AM.711: Audio monitoring device:
+03:20:54 AM.711: 	name: Default
+03:20:54 AM.711: 	id: default
+03:20:54 AM.711: ---------------------------------
+03:20:54 AM.712: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+03:20:54 AM.856: No blackmagic support
+03:20:54 AM.929: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+03:20:54 AM.929: 
+03:20:54 AM.929: FFMPEG VAAPI supported
+03:20:54 AM.942: VLC found, VLC video source enabled
+03:20:54 AM.942: ---------------------------------
+03:20:54 AM.942:   Loaded Modules:
+03:20:54 AM.942:     vlc-video.so
+03:20:54 AM.942:     text-freetype2.so
+03:20:54 AM.942:     rtmp-services.so
+03:20:54 AM.942:     obs-x264.so
+03:20:54 AM.942:     obs-transitions.so
+03:20:54 AM.942:     obs-outputs.so
+03:20:54 AM.942:     obs-libfdk.so
+03:20:54 AM.942:     obs-filters.so
+03:20:54 AM.942:     obs-ffmpeg.so
+03:20:54 AM.942:     linux-v4l2.so
+03:20:54 AM.942:     linux-pulseaudio.so
+03:20:54 AM.942:     linux-jack.so
+03:20:54 AM.942:     linux-decklink.so
+03:20:54 AM.942:     linux-capture.so
+03:20:54 AM.942:     linux-alsa.so
+03:20:54 AM.942:     image-source.so
+03:20:54 AM.942:     frontend-tools.so
+03:20:54 AM.942:     decklink-ouput-ui.so
+03:20:54 AM.942: ---------------------------------
+03:20:54 AM.942: ==== Startup complete ===============================================
+03:20:54 AM.942: Service '' not found
+03:20:54 AM.943: No scene file found, creating default scene
+03:20:54 AM.944: All scene data cleared
+03:20:54 AM.944: ------------------------------------------------
+03:20:54 AM.947: Switched to scene 'Scene'
+03:20:54 AM.947: Failed to glob scene collections
+03:20:55 AM.234: [rtmp-services plugin] Successfully updated file 'services.json' (version 132)
+03:20:55 AM.234: [rtmp-services plugin] Successfully updated package (version 132)
+03:21:12 AM.088: 
+03:21:12 AM.088: ==== Auto-config wizard testing commencing ======
+
+03:21:12 AM.112: ---------------------------------
+03:21:12 AM.112: video settings reset:
+03:21:12 AM.112: 	base resolution:   1920x1080
+03:21:12 AM.112: 	output resolution: 960x540
+03:21:12 AM.112: 	downscale filter:  Bicubic
+03:21:12 AM.112: 	fps:               30/1
+03:21:12 AM.112: 	format:            NV12
+03:21:12 AM.112: 	YUV mode:          601/Partial
+03:21:12 AM.112: NV12 texture support not available
+03:21:12 AM.126: ---------------------------------
+03:21:12 AM.126: [x264 encoder: 'test_x264'] preset: veryfast
+03:21:12 AM.126: [x264 encoder: 'test_x264'] profile: high
+03:21:12 AM.127: [x264 encoder: 'test_x264'] settings:
+03:21:12 AM.127: 	rate_control: CRF
+03:21:12 AM.127: 	bitrate:      0
+03:21:12 AM.127: 	buffer size:  0
+03:21:12 AM.127: 	crf:          20
+03:21:12 AM.127: 	fps_num:      30
+03:21:12 AM.127: 	fps_den:      1
+03:21:12 AM.127: 	width:        960
+03:21:12 AM.127: 	height:       540
+03:21:12 AM.127: 	keyint:       250
+03:21:12 AM.127: 
+03:21:12 AM.131: ---------------------------------
+03:21:12 AM.132: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+03:21:12 AM.132: 
+03:21:17 AM.141: Output 'null': stopping
+03:21:17 AM.141: Output 'null': Total frames output: 126
+03:21:17 AM.147: Output 'null': Total drawn frames: 150
+03:21:17 AM.193: ---------------------------------
+03:21:17 AM.193: video settings reset:
+03:21:17 AM.193: 	base resolution:   1920x1080
+03:21:17 AM.193: 	output resolution: 852x480
+03:21:17 AM.193: 	downscale filter:  Bicubic
+03:21:17 AM.193: 	fps:               30/1
+03:21:17 AM.193: 	format:            NV12
+03:21:17 AM.193: 	YUV mode:          601/Partial
+03:21:17 AM.193: NV12 texture support not available
+03:21:17 AM.197: ---------------------------------
+03:21:17 AM.197: [x264 encoder: 'test_x264'] preset: veryfast
+03:21:17 AM.197: [x264 encoder: 'test_x264'] profile: high
+03:21:17 AM.197: [x264 encoder: 'test_x264'] settings:
+03:21:17 AM.197: 	rate_control: CRF
+03:21:17 AM.197: 	bitrate:      0
+03:21:17 AM.197: 	buffer size:  0
+03:21:17 AM.197: 	crf:          20
+03:21:17 AM.197: 	fps_num:      30
+03:21:17 AM.197: 	fps_den:      1
+03:21:17 AM.197: 	width:        852
+03:21:17 AM.197: 	height:       480
+03:21:17 AM.197: 	keyint:       250
+03:21:17 AM.197: 
+03:21:17 AM.201: ---------------------------------
+03:21:17 AM.202: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+03:21:17 AM.202: 
+03:21:22 AM.204: Output 'null': stopping
+03:21:22 AM.205: Output 'null': Total frames output: 126
+03:21:22 AM.205: Output 'null': Total drawn frames: 150
+03:21:22 AM.230: ---------------------------------
+03:21:22 AM.231: video settings reset:
+03:21:22 AM.231: 	base resolution:   1920x1080
+03:21:22 AM.231: 	output resolution: 1280x720
+03:21:22 AM.231: 	downscale filter:  Bicubic
+03:21:22 AM.231: 	fps:               30/1
+03:21:22 AM.231: 	format:            NV12
+03:21:22 AM.231: 	YUV mode:          601/Partial
+03:21:22 AM.231: NV12 texture support not available
+03:21:29 AM.636: ---------------------------------
+03:21:29 AM.636: video settings reset:
+03:21:29 AM.636: 	base resolution:   1920x1080
+03:21:29 AM.636: 	output resolution: 960x540
+03:21:29 AM.636: 	downscale filter:  Bicubic
+03:21:29 AM.636: 	fps:               30/1
+03:21:29 AM.636: 	format:            NV12
+03:21:29 AM.636: 	YUV mode:          601/Partial
+03:21:29 AM.636: NV12 texture support not available
+03:21:29 AM.658: 
+03:21:29 AM.658: ==== Auto-config wizard testing stopping ========
+
+03:21:55 AM.106: xshm-input: Geometry 1920x1080 @ 0,0
+03:21:55 AM.134: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+03:22:22 AM.402: pulse-input: Unable to get server info !
+03:22:22 AM.409: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+03:22:33 AM.962: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+03:26:37 AM.529: pulse-input: Unable to get server info !
+03:26:37 AM.536: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+03:28:07 AM.247: alsa-input: PCM 'default' rate set to 44100
+03:28:07 AM.247: alsa-input: PCM 'default' channels set to 2
+03:28:07 AM.256: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+03:28:07 AM.844: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Audio Capture Device (ALSA))
+03:28:07 AM.844: 
+03:28:15 AM.951: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Audio Capture Device (ALSA))
+03:28:15 AM.951: 
+03:28:21 AM.543: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+03:28:21 AM.543: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+03:28:21 AM.931: adding 348 milliseconds of audio buffering, total audio buffering is now 417 milliseconds (source: Audio Capture Device (ALSA))
+03:28:21 AM.931: 
+03:28:23 AM.427: adding 23 milliseconds of audio buffering, total audio buffering is now 441 milliseconds (source: Audio Capture Device (ALSA))
+03:28:23 AM.427: 
+03:28:33 AM.831: alsa-input: PCM 'default' rate set to 44100
+03:28:33 AM.832: alsa-input: PCM 'default' channels set to 2
+03:28:33 AM.895: adding 46 milliseconds of audio buffering, total audio buffering is now 487 milliseconds (source: Audio Capture Device (ALSA))
+03:28:33 AM.895: 
+03:28:41 AM.278: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+03:28:41 AM.278: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+03:29:56 AM.727: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+03:30:11 AM.586: alsa-input: PCM 'default' rate set to 44100
+03:30:11 AM.586: alsa-input: PCM 'default' channels set to 2
+03:30:13 AM.934: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+03:30:13 AM.934: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+03:35:37 AM.506: alsa-input: PCM 'default' rate set to 44100
+03:35:37 AM.507: alsa-input: PCM 'default' channels set to 2
+03:36:28 AM.625: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene'
+03:36:39 AM.739: pulse-input: Unable to get server info !
+03:36:39 AM.745: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'

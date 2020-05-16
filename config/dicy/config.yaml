@@ -1,0 +1,36 @@
+synctex: true
+engine: pdflatex
+severity: warning
+copyTargetsToRoot: true
+outputDirectory: ''
+outputFormat: pdf
+cleanPatterns:
+  - '**/*.aux'
+  - '**/*.aux.bak'
+  - '**/*.bbl'
+  - '**/*.bcf'
+  - '**/*.blg'
+  - '**/*.dvi'
+  - '**/*.fdb_latexmk'
+  - '**/*.fls'
+  - '**/*.idx'
+  - '**/*.idx.bak'
+  - '**/*.ilg'
+  - '**/*.ind'
+  - '**/*.lof'
+  - '**/*.log'
+  - '**/*.lol'
+  - '**/*.lot'
+  - '**/*.nav'
+  - '**/*.out'
+  - '**/*.pdf'
+  - '**/*.ps'
+  - '**/*.snm'
+  - '**/*.synctex.gz'
+  - '**/*.toc'
+  - '/**/_minted-${JOB}'
+  - '/${OUTDIR}/sage-plots-for-${JOB}.tex'
+  - /missfont.log
+  - /texput.log
+  - /texput.aux
+intermediatePostScript: false
